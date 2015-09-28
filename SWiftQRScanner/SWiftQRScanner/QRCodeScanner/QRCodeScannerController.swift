@@ -2,7 +2,7 @@
 //  QRCodeScannerController.swift
 //  WKWeibo
 //
-//  Created by 王虎 on 15/9/16.
+//  Created by hooge on 15/9/16.
 //  Copyright © 2015年 hoowang. All rights reserved.
 //
 

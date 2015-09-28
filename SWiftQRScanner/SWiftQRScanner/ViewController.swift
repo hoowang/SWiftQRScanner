@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SWiftQRScanner
 //
-//  Created by 王虎 on 15/9/28.
+//  Created by hooge on 15/9/28.
 //  Copyright © 2015年 hoowang. All rights reserved.
 //
 
